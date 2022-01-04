@@ -1,0 +1,4 @@
+name: SignMute
+version: '${project.version}'
+main: _._
+api-version: 1.16
